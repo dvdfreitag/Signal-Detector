@@ -1,0 +1,5 @@
+summary: A low-cost RF power detector based on the AD8319
+site: https://github.com/dvdfreitag/Signal-Detector
+color: purple
+bom: doc/bom.tsv
+gerbers: doc/gerber
